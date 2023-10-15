@@ -17,8 +17,8 @@
 % --------------------------------------------
 % fobj = @YourCostFunction
 % dim = number of your variables
-% Max_iteration = maximum number of iterations
-% SearchAgents_no = number of search agents
+% maxFEs = Maximum number of evaluations
+% N = number of search agents
 % lb=[lb1,lb2,...,lbn] where lbn is the lower bound of variable n
 % ub=[ub1,ub2,...,ubn] where ubn is the upper bound of variable n
 % ---------------------------------------------------------
