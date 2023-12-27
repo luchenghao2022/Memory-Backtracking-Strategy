@@ -26,7 +26,7 @@
 %  Heming Jia, Chenghao Lu, Zhikai Xing,
 %  Memory backtracking strategy:an evolutionary updating mechanism for meta-heuristic algorithms
 %  
-%  DOI:
+%  DOI: https://doi.org/10.1016/j.swevo.2023.101456
 %  
 %  E-mails: jiaheming@fjsmu.edu.cn           (Heming Jia)
 %           20210868203@fjsmu.edu.cn         (Chenghao Lu)
